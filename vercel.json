@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "routes": [
+  "outputDirectory": ".",
     {
       "src": "/api/(.*)",
       "dest": "/api/$1",
