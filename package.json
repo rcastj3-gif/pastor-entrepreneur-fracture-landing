@@ -19,9 +19,7 @@
   "author": "Reyes Castillo",
   "license": "PROPRIETARY",
   "dependencies": {},
-  "devDependencies": {
-    "vercel": "^latest"
-  },
+  "devDependencies": {},
   "engines": {
     "node": "20.x"
   }
